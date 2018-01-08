@@ -7,7 +7,7 @@ body
 	  margin-left: 80px;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
-    box-shadow: 10px 10px 5px #888888 
+    box-shadow: 10px 10px 5px #888888
 }
 img
 {
@@ -61,4 +61,8 @@ footer
   position: absolute;
   top: 60px;
   right: 470px;
+}
+div {
+    height: 50px;
+    background: linear-gradient(to bottom, #66ffff 0%, #ffffff 100%)
 }
