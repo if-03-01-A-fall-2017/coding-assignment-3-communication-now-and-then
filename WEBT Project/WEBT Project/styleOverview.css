@@ -1,0 +1,71 @@
+body
+{
+    background-color: white;
+    margin-top: 0px;
+	  margin-right: 80px;
+	  margin-bottom: 0px;
+	  margin-left: 80px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    box-shadow: 10px 10px 5px #888888;
+}
+img
+{
+    position: absolute;
+    top: 280px;
+    right: 81px;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 36px;
+  color: blue;
+}
+
+h2
+{
+  text-align: center;
+  font-size: 36px;
+  color: blue;
+}
+p
+{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 2cm;
+  margin-right: 2cm; 
+}
+
+.ulOverview{
+  list-style-position: inside;
+  text-align: center;
+}
+ul, li
+{
+    list-style: none;
+}
+footer
+{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+.picCunei
+{
+  position: absolute;
+  top: 640px;
+  left: 180px;
+}
+.picWhats
+{
+  position: absolute;
+  top: 60px;
+  right: 470px;
+}
+div {
+    height: 50px;
+    background: linear-gradient(to bottom, #66ffff 0%, #ffffff 100%)
+}

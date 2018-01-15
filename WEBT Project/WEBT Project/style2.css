@@ -1,0 +1,67 @@
+.picArab
+{
+  position: absolute;
+  top: 1100px;
+  right: 81px;
+}
+
+.picChinise
+{
+  position: absolute;
+  top: 1300px;
+  right: 81px;
+}
+
+p
+{
+  text-align: left;
+  font-size: 20px;
+}
+body
+{
+    background-color: white;
+    margin-top: 0px;
+	  margin-right: 80px;
+	  margin-bottom: 0px;
+	  margin-left: 80px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    box-shadow: 10px 10px 5px #888888
+}
+footer
+{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+p
+{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 2cm;
+  margin-right: 2cm; 
+}
+h1
+{
+  text-align: center;
+  font-size: 36px;
+  color: blue;
+}
+ul{
+margin-left: 600px;
+}
+.ullan
+{
+  margin-left: 0px;
+}
+h2
+{
+  text-align: center;
+  font-size: 24px;
+}
+div {
+    height: 50px;
+    background: linear-gradient(to bottom, #66ffff 0%, #ffffff 100%)
+}
